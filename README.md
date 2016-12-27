@@ -6,3 +6,13 @@ Further information about the ParaSail and its forking effort is probably availa
 [mmmv_parasail_projects](http://www.softf1.com/cgi-bin/tree1/technology/flaws/mmmv_parasail_projects.bash/).
 
 
+
+
+
+##  Dashboard
+
+
+[![Run Status](https://api.shippable.com/projects/5862933cb1bb441000bab8c6/badge?branch=master)](https://app.shippable.com/projects/5862933cb1bb441000bab8c6)
+
+
+
