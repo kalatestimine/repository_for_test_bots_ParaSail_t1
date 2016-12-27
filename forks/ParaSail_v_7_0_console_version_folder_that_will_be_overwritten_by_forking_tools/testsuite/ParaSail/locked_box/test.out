@@ -1,0 +1,4 @@
+locked_box.psl:63:13: Warning: Result not used: Get(U_Box) -> PSL::Core::Univ_Integer
+Starting 100 pico-threads trying to put something in the box
+ or take something out.
+And the box is now null
